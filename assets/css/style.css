@@ -32,11 +32,11 @@ header div {
     font-size: 20px;
 }
 
-header div ul {
+header div nav {
     list-style-type: none;
 }
 
-header div ul li {
+header div nav li {
     display: inline-block;
     margin-left: 25px;
 }
