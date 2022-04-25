@@ -1,12 +1,19 @@
+/*presets the height and width of all elements*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*sets the background color to a shade of grey*/
+
 body {
     background-color: #d9dcd6;
 }
+
+/*sets the padding to 20px, sets fallbacks for font, sets the background color to a shade of blue,
+ and the text color to white*/
 
 header {
     padding: 20px;
@@ -15,14 +22,21 @@ header {
     color: #ffffff;
 }
 
+/*sets the display to inline-block and font-size to 48px*/
+
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*sets the text color to a shade of grey*/
+
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/*sets the top padding to 15px, the right margin to 20px, sets the float to right,
+stes fallbacks for font, and sets font-size to 20px*/
 
 header div {
     padding-top: 15px;
@@ -32,23 +46,34 @@ header div {
     font-size: 20px;
 }
 
+/*sets it to no style for lists*/
+
 header div nav {
     list-style-type: none;
 }
+
+/*sets display to inline-block and sets the left margin to 25px*/
 
 header div nav li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*sets the text to white and adds no decoration*/
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*sets the font size to 16px*/
+
 p {
     font-size: 16px;
 }
+
+/*sets the height to 800px, the width to 100%, the bottom margin to 25px,
+the background image, background size, and position*/
 
 .hero {
     height: 800px;
@@ -59,21 +84,30 @@ p {
     background-position: center;
 }
 
+/*sets the float to left and the left margin to 25px*/
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
+/*sets the float to right and the left margin to 25px*/
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*sets the width to 75%, display to inline-block, and the left margin to 20px*/
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*sets the right margin to 20px, padding to 20px, clear to both, float to right,
+width to 20% height to 100%, sets the fallbacks for font, and the background color to a shade of blue*/
 
 .benefits {
     margin-right: 20px;
@@ -86,21 +120,30 @@ p {
     background-color: #2589bd;
 }
 
+/*sets the bottom margin to 32px and text color to white*/
+
 .benefit-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/*sets the bottom margin to 10px and sets the text to the center*/
 
 .benefit-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/*sets the display to block, margin to 10px on top and botom and auto to right and left, and max-width to 150px*/
+
 .benefit-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*sets the bottom margin to 20px, padding to 50px, height to 300px, sets fallbacks for font,
+ background color to a shade of blue, and sets the text color to white*/
 
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
@@ -111,14 +154,20 @@ p {
     color: #ffffff;
 }
 
+/*sets the max height to 200px*/
+
 #search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
     max-height: 200px;
 }
+
+/*sets the bottom margin to 20px and the font-size to 36px*/
 
 #search-engine-optimization h2, #social-media-marketing img, #social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/*sets the padding to 30px, clear to coth, fallbacks for font, and sets the text to center*/
 
 footer {
     padding: 30px;
@@ -126,6 +175,8 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+/*sets the font-size to 20px*/
 
 footer h2 {
     font-size: 20px;
