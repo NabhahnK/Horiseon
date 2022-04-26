@@ -27,3 +27,51 @@ To this:
 ```html
 <header>
 ```
+
+## logical Structure
+
+I needed to refactor the code to be in an orginised and understandable layout.
+
+### For example:
+
+From this:
+
+```html
+<div>
+    <ul>
+        <li>
+            <a href="#search-engine-optimization">Search Engine Optimization</a>
+        </li>
+        <li>
+            <a href="#online-reputation-management">Online Reputation Management</a>
+        </li>
+        <li>
+            <a href="#social-media-marketing">Social Media Marketing</a>
+        </li>
+    </ul>
+</div>
+```
+
+To this:
+
+```html
+<div>
+
+    <nav>
+
+        <li>
+            <a href="#search-engine-optimization">Search Engine Optimization</a>
+        </li>
+
+        <li>
+            <a href="#online-reputation-management">Online Reputation Management</a>
+        </li>
+
+        <li>
+            <a href="#social-media-marketing">Social Media Marketing</a>
+        </li>
+
+    <nav>
+
+</div>
+```
