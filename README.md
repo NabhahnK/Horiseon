@@ -15,6 +15,8 @@ I have also deployed it as a [GitHub Page](https://nabhahnk.github.io/Horiseon/)
   - [alt attributes for images](#alt-attributes-for-images)
   - [sequential heading elements](#sequential-heading-elements)
   - [descriptive title](#descriptive-title)
+  - [CSS Refactor](#css-refactor)
+    - [For example:](#for-example-2)
 
 ## Semantic Code
 
@@ -173,5 +175,10 @@ From this:
 To this:
 
 ```css
+/*sets the bottom margin to 20px and the font-size to 36px*/
 
+#search-engine-optimization h2, #online-reputation-management h2, #social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 ```
