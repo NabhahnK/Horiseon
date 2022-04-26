@@ -38,7 +38,7 @@ To this:
 
 ## Logical Structure
 
-I needed to refactor the code to be in an orginised and understandable layout.
+I needed to refactor the code to be in an organised and understandable layout.
 
 ### For example:
 
