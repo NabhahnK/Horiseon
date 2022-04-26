@@ -37,41 +37,82 @@ I needed to refactor the code to be in an orginised and understandable layout.
 From this:
 
 ```html
-<div>
-    <ul>
-        <li>
-            <a href="#search-engine-optimization">Search Engine Optimization</a>
-        </li>
-        <li>
-            <a href="#online-reputation-management">Online Reputation Management</a>
-        </li>
-        <li>
-            <a href="#social-media-marketing">Social Media Marketing</a>
-        </li>
-    </ul>
-</div>
+<div class="content">
+        <div class="search-engine-optimization">
+            ...
+        </div>
+        <div id="online-reputation-management" class="online-reputation-management">
+            ...
+        </div>
+        <div id="social-media-marketing" class="social-media-marketing">
+            ...
+        </div>
+    </div>
+    <div class="benefits">
+        <div class="benefit-lead">
+            ...
+        </div>
+        <div class="benefit-brand">
+            ...
+        </div>
+        <div class="benefit-cost">
+            ...
+        </div>
+    </div>
 ```
 
 To this:
 
 ```html
-<div>
+<div class="content">
 
-    <nav>
+        <section id="search-engine-optimization">
 
-        <li>
-            <a href="#search-engine-optimization">Search Engine Optimization</a>
-        </li>
+            ...
 
-        <li>
-            <a href="#online-reputation-management">Online Reputation Management</a>
-        </li>
+        </section>
 
-        <li>
-            <a href="#social-media-marketing">Social Media Marketing</a>
-        </li>
+        <section id="online-reputation-management">
 
-    <nav>
+            ...
 
-</div>
+        </section>
+
+        <section id="social-media-marketing">
+
+            ...
+
+    </div>
+
+    <aside class="benefits">
+
+        <section class="benefit-section">
+
+            ...
+
+        </section>
+
+        <section class="benefit-section">
+
+            ...
+
+        </section>
+
+        <section class="benefit-section">
+
+            ...
+
+        </section>
+
+    </aside>
 ```
+
+## alt attributes for images
+
+One of the criteria is to add alt attributes to images.
+
+```html
+<img src="./assets/images/cost-management.png" alt="image of a gear and money icons"/>
+```
+
+![alt image example](./assets/images/cost-management.png "alt image example")
