@@ -8,10 +8,10 @@ I have also deployed it as a [GitHub Page](https://nabhahnk.github.io/Horiseon/)
 
 
 - [Semantic Code](#Semantic-Code)
-- [Logical Structure]()
-- [Alt Attributes for Images]()
-- [Sequential Heading Elements]()
-- [Descriptive Title]()
+- [Logical Structure](#logical-structure)
+- [Alt Attributes for Images](#alt-attributes-for-images)
+- [Sequential Heading Elements](#sequential-heading-elements)
+- [Descriptive Title](#descriptive-title)
 
 ## Semantic Code
 
