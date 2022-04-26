@@ -1,5 +1,7 @@
 # Horiseon
 
+![Horiseon website](./assets/images/screen-shot.PNG "Horiseon website")
+
 Horison is challenge one of my fullstack flex boot camp. I had to refactor an existing html and css code repository to achive mulitiple goals.
 
 - semantic code
