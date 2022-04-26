@@ -7,11 +7,14 @@ Horison is challenge one of my fullstack flex boot camp. I had to refactor an ex
 I have also deployed it as a [GitHub Page](https://nabhahnk.github.io/Horiseon/).
 
 
-- [Semantic Code](#Semantic-Code)
-- [Logical Structure](#logical-structure)
-- [Alt Attributes for Images](#alt-attributes-for-images)
-- [Sequential Heading Elements](#sequential-heading-elements)
-- [Descriptive Title](#descriptive-title)
+- [Horiseon](#horiseon)
+  - [Semantic Code](#semantic-code)
+    - [For example:](#for-example)
+  - [logical Structure](#logical-structure)
+    - [For example:](#for-example-1)
+  - [alt attributes for images](#alt-attributes-for-images)
+  - [sequential heading elements](#sequential-heading-elements)
+  - [descriptive title](#descriptive-title)
 
 ## Semantic Code
 
