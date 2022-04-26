@@ -10,7 +10,7 @@ I have also deployed it as a [GitHub Page](https://nabhahnk.github.io/Horiseon/)
 - [Horiseon](#horiseon)
   - [Semantic Code](#semantic-code)
     - [For example:](#for-example)
-  - [logical Structure](#logical-structure)
+  - [Logical Structure](#logical-structure)
     - [For example:](#for-example-1)
   - [Alt Attributes for Images](#alt-attributes-for-images)
   - [Sequential Heading Elements](#sequential-heading-elements)
@@ -36,7 +36,7 @@ To this:
 <header>
 ```
 
-## logical Structure
+## Logical Structure
 
 I needed to refactor the code to be in an orginised and understandable layout.
 
