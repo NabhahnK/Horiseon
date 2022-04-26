@@ -12,9 +12,9 @@ I have also deployed it as a [GitHub Page](https://nabhahnk.github.io/Horiseon/)
     - [For example:](#for-example)
   - [logical Structure](#logical-structure)
     - [For example:](#for-example-1)
-  - [alt attributes for images](#alt-attributes-for-images)
-  - [sequential heading elements](#sequential-heading-elements)
-  - [descriptive title](#descriptive-title)
+  - [Alt Attributes for Images](#alt-attributes-for-images)
+  - [Sequential Heading Elements](#sequential-heading-elements)
+  - [Descriptive Title](#descriptive-title)
   - [CSS Refactor](#css-refactor)
     - [For example:](#for-example-2)
 
@@ -115,7 +115,7 @@ To this:
     </aside>
 ```
 
-## alt attributes for images
+## Alt Attributes for Images
 
 One of the criteria is to add alt attributes to images.
 
@@ -125,13 +125,13 @@ One of the criteria is to add alt attributes to images.
 
 ![alt image example](./assets/images/cost-management.png "alt image example")
 
-## sequential heading elements
+## Sequential Heading Elements
 
 I had to search and verify that the heading tags were used in am acceptable manner.
 
 Such as, h1, before h2, before h3, and so on.
 
-## descriptive title 
+## Descriptive Title 
 
 I had to change to title to one that matched the content appropriately.
 
