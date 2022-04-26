@@ -116,3 +116,26 @@ One of the criteria is to add alt attributes to images.
 ```
 
 ![alt image example](./assets/images/cost-management.png "alt image example")
+
+## sequential heading elements
+
+I had to search and verify that the heading tags were used in am acceptable manner.
+
+Such as, h1, before h2, before h3, and so on.
+
+## descriptive title 
+
+I had to change to title to one that matched the content appropriately.
+
+From this:
+
+```html
+<title>website</title>
+```
+
+To this:
+
+```html
+<title>Horiseon</title>
+```
+
