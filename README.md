@@ -127,7 +127,7 @@ One of the criteria is to add alt attributes to images.
 
 ## Sequential Heading Elements
 
-I had to search and verify that the heading tags were used in am acceptable manner.
+I had to search and verify that the heading tags were used in an acceptable manner.
 
 Such as, h1, before h2, before h3, and so on.
 
