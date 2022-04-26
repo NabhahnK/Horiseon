@@ -145,3 +145,33 @@ To this:
 <title>Horiseon</title>
 ```
 
+## CSS Refactor
+
+I also had to comment and consolidate the style.css file.
+
+### For example:
+
+From this:
+
+```css
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+```
+
+To this:
+
+```css
+
+```
