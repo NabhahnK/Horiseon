@@ -4,7 +4,7 @@
 
 Horison is challenge one of my fullstack flex boot camp. I had to refactor an existing HTML and CSS code repository to achive mulitiple goals.
 
-I have also deployed it as a [GitHub Pages](https://nabhahnk.github.io/Horiseon/).
+I have also deployed it as a [GitHub Page](https://nabhahnk.github.io/Horiseon/).
 
 
 - semantic code
