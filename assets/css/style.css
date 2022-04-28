@@ -38,7 +38,7 @@ header h1 .seo {
 /*sets the top padding to 15px, the right margin to 20px, sets the float to right,
 stes fallbacks for font, and sets font-size to 20px*/
 
-header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -48,13 +48,13 @@ header div {
 
 /*sets it to no style for lists*/
 
-header div nav {
+header nav ul {
     list-style-type: none;
 }
 
 /*sets display to inline-block and sets the left margin to 25px*/
 
-header div nav li {
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
