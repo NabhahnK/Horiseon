@@ -167,7 +167,7 @@ width to 20% height to 100%, sets the fallbacks for font, and the background col
     font-size: 36px;
 }
 
-/*sets the padding to 30px, clear to coth, fallbacks for font, and sets the text to center*/
+/*sets the padding to 30px, clear to both, fallbacks for font, and sets the text to center*/
 
 footer {
     padding: 30px;
